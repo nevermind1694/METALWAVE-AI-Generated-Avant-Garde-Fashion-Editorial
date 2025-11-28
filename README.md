@@ -5,9 +5,13 @@ METALWAVE is an AI-powered avant-garde fashion editorial created using Shakker A
 
 ## Workflow & Settings
 **Tool:** Shakker AI
+
 **Model Used:** Realistic / Photographic Fashion Model
+
 **Aspect Ratio:** 16:9
+
 **Creativity:** Medium–High
+
 **Lighting:** Soft Studio / Rim Light
 
 
