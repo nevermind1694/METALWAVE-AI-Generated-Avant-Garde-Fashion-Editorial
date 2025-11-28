@@ -1,2 +1,2 @@
 # METALWAVE — AI-Generated Avant-Garde Fashion Editorial
-Metalwave is an AI-driven fashion concept project created using Shakker AI. It explores oversized silhouettes, metallic textures, and Gen Z streetwear aesthetics for plus-size women aged 16–25. The goal was to test how generative AI can support fashion visualization for inclusive and futuristic styling.
+This project explores an avant-garde fashion editorial created using Shakker AI, focusing on oversized metallic silhouettes, chrome textures, and futuristic sculptural shapes for plus-size Gen Z women. The goal is to push streetwear into a surreal, experimental, high-fashion direction using AI.
