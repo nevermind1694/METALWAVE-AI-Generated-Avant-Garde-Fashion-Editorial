@@ -23,7 +23,8 @@ METALWAVE is an AI-powered avant-garde fashion editorial created using Shakker A
 “distorted hands, extra limbs, melted faces, text, watermark, deformed anatomy, glitch fabric”
 
 
-**Images made:**
+### Images made:
+
 <img width="720" height="1280" alt="1d44945cc439e25479f6025744eadaff7ab9104900681a0fcec3d8878b02e4f9" src="https://github.com/user-attachments/assets/5a35e95e-9eee-46d0-b61c-b56c03aad04d" />
 <img width="720" height="1280" alt="5ba7c64ad5fc740e117a8a65e9e833d12fb071b9c20061b23da10e0fe4eb1b03" src="https://github.com/user-attachments/assets/ef7362ff-9aff-4645-ac08-3718fd0efdb1" />
 <img width="720" height="1280" alt="5fdfc21b42aa42a75dca44681b529451c5840f424693fb8f06f4926be0d74b7b" src="https://github.com/user-attachments/assets/edf2ec17-f4de-42d2-9afa-08faf544236b" />
