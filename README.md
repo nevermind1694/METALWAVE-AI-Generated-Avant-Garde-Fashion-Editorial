@@ -25,6 +25,14 @@ METALWAVE is an AI-powered avant-garde fashion editorial created using Shakker A
 
 ### Images made:
 
+<img width="824" height="1464" alt="0eaa301e3edcca84ad498131919aece04e477e49da5adfa7fd126c1c9c39fda8" src="https://github.com/user-attachments/assets/dd4d1880-4205-4a66-bfe7-59d70615f737" />
+<img width="824" height="1464" alt="3bbb0b00931195f2584fa0cbc0939ff33f35d6ddf2291bb2ae894ce6a0adf6c1" src="https://github.com/user-attachments/assets/e9ff14ee-9ac6-4f5a-b8b6-6456998798ba" />
+<img width="824" height="1464" alt="97bd1a4550f984c8c9db37803437a0c3959324100821f15b25cab1e8f2a1217e" src="https://github.com/user-attachments/assets/e671ae0f-6c8c-4e96-8bfb-ced54f418be8" />
+<img width="824" height="1464" alt="7335d9542bc46e49ff35fb7006806bf85b41c8465ef764e1d822ac7362a21a67" src="https://github.com/user-attachments/assets/3ece816e-3c2d-46f1-8a21-3f1496cf38ca" />
+<img width="824" height="1464" alt="a63f3a9a3b481f44d195ce73f26c913ee963ea8f4b5cd893c5821ff532520cc0" src="https://github.com/user-attachments/assets/607cff45-9220-4c67-802d-e4d336dcc9e3" />
+<img width="824" height="1464" alt="bc2c84f12affc977634b56b770f468f9349d135f00e49976b3656d406fd726b3" src="https://github.com/user-attachments/assets/e73d135f-657d-4b5f-a797-c59aef6766b8" />
+<img width="824" height="1464" alt="efd57966388f215e9bc2f2f3e48c4d8685ff60e57cde9535cbe0b4276f9f64f6" src="https://github.com/user-attachments/assets/2ac2a2b2-2c96-4ff1-90c1-d586476cdd3c" />
+<img width="824" height="1464" alt="faa590af9857f5cbb7c6a593e67c9531c49dffce3974c7460930b4c91963fe22" src="https://github.com/user-attachments/assets/58eb20a2-ed8e-46fc-969e-0d31b7a0a05f" />
 <img width="720" height="1280" alt="1d44945cc439e25479f6025744eadaff7ab9104900681a0fcec3d8878b02e4f9" src="https://github.com/user-attachments/assets/5a35e95e-9eee-46d0-b61c-b56c03aad04d" />
 <img width="720" height="1280" alt="5ba7c64ad5fc740e117a8a65e9e833d12fb071b9c20061b23da10e0fe4eb1b03" src="https://github.com/user-attachments/assets/ef7362ff-9aff-4645-ac08-3718fd0efdb1" />
 <img width="720" height="1280" alt="5fdfc21b42aa42a75dca44681b529451c5840f424693fb8f06f4926be0d74b7b" src="https://github.com/user-attachments/assets/edf2ec17-f4de-42d2-9afa-08faf544236b" />
@@ -55,4 +63,3 @@ METALWAVE is an AI-powered avant-garde fashion editorial created using Shakker A
 <img width="720" height="1280" alt="d14b64be67022047a1104c50289043744795168f9346d2e7a40ebedb70ee1292" src="https://github.com/user-attachments/assets/c2135693-c55c-46f7-9074-4ccba8987414" />
 <img width="768" height="1024" alt="de281d10bf6144886907d33b29f0c2dae3b19e760bc1b19d4ea096f373903074" src="https://github.com/user-attachments/assets/5c9e14e8-c5fc-46ae-96c1-d7f6f96cac3f" />
 <img width="720" height="1280" alt="ec6b9af307f4f3f3e3ecd4b67b9575cd3b34fd6484ea2bda0d0d9c08a007659e" src="https://github.com/user-attachments/assets/a6a0630c-68d4-4898-a799-771ee6569e02" />
-
